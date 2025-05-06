@@ -53,14 +53,11 @@
   </footer>
 </template>
 
-<script>
-export default {
-  name: 'PageFooter',
-};
+<script setup lang="ts">
 </script>
 
 <style lang="scss" scoped>
-@import '~assets/variables';
+@import '~/assets/variables.scss';
 
 .footer {
   display: grid;

@@ -1,11 +1,8 @@
-<script setup lang="ts">
-
-</script>
-
 <template>
-  $END$
+  <div class="text-white CustomLayout bg-blue-900 h-screen">
+    <p>Custom layout</p>
+    <slot />
+  </div>
 </template>
-
-<style scoped>
-
-</style>
+<script setup lang="ts">
+</script>

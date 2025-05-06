@@ -1,106 +1,104 @@
 <template>
-  <div>
-    <header class="header">
-      <section class="top-bar">
-        <h2 class="visually-hidden">
-          Top bar
-        </h2>
-        <span class="top-bar__info">special deals <a class="top-bar__link" href="/public">link</a></span>
-        <ul class="top-links">
-          <li class="top-links__item">
-            <a class="top-links__link">first</a>
-          </li>
-          <li class="top-links__item">
-            <a class="top-links__link">second</a>
-          </li>
-          <li class="top-links__item">
-            <a class="top-links__link">third</a>
-          </li>
-          <li class="top-links__item">
-            <a class="top-links__link">fourth</a>
-          </li>
-        </ul>
-      </section>
-      <nav class="main-navigation">
-        <div class="logo">
-          <a href="/public"><img src="/logo.png" alt="ГдеМатериал.Ру"></a> <!--TODO(iNerV) do dynamically link-->
-        </div>
-        <div class="main-navigation__burger">
-          <button class="main-navigation__open-menu-btn">
-            Menu
-          </button>
-        </div>
-        <div class="main-navigation__search">
-          <input class="main-navigation__input" type="search" placeholder="search">
-        </div>
-        <ul class="user-box">
-          <li class="user-box__item">
-            <a class="user-box__link" href="#user">user</a>
-          </li>
-          <li class="user-box__item">
-            <a class="user-box__link" href="#basket">basket</a>
-          </li>
-        </ul>
-      </nav>
-      <ul class="site-navigation">
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category</a>
+  <header class="header">
+    <section class="top-bar">
+      <h2 class="visually-hidden">
+        Top bar
+      </h2>
+      <span class="top-bar__info">special deals <a class="top-bar__link" href="/public">link</a></span>
+      <ul class="top-links">
+        <li class="top-links__item">
+          <a class="top-links__link">first</a>
         </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category2</a>
+        <li class="top-links__item">
+          <a class="top-links__link">second</a>
         </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category3</a>
+        <li class="top-links__item">
+          <a class="top-links__link">third</a>
         </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category4</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category5</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category6</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category7</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category8</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category9</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category10</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category11</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category12</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category13</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category14</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category15</a>
-        </li>
-        <li class="site-navigation__item">
-          <a class="site-navigation__link" href="/public">Category16</a>
+        <li class="top-links__item">
+          <a class="top-links__link">fourth</a>
         </li>
       </ul>
-    </header>
-  </div>
+    </section>
+    <nav class="main-navigation">
+      <div class="logo">
+        <a href="/public"><img src="/logo.png" alt="ГдеМатериал.Ру"></a> <!--TODO(iNerV) do dynamically link-->
+      </div>
+      <div class="main-navigation__burger">
+        <button class="main-navigation__open-menu-btn">
+          Menu
+        </button>
+      </div>
+      <div class="main-navigation__search">
+        <input class="main-navigation__input" type="search" placeholder="search">
+      </div>
+      <ul class="user-box">
+        <li class="user-box__item">
+          <a class="user-box__link" href="#user">user</a>
+        </li>
+        <li class="user-box__item">
+          <a class="user-box__link" href="#basket">basket</a>
+        </li>
+      </ul>
+    </nav>
+    <ul class="site-navigation">
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category2</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category3</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category4</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category5</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category6</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category7</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category8</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category9</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category10</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category11</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category12</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category13</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category14</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category15</a>
+      </li>
+      <li class="site-navigation__item">
+        <a class="site-navigation__link" href="/public">Category16</a>
+      </li>
+    </ul>
+  </header>
 </template>
 
 <script setup lang="ts">
 </script>
 
 <style lang="scss" scoped>
-@import "~/assets/variables.scss";
+@import '~/assets/variables.scss';
 
 .top-bar {
   display: flex;

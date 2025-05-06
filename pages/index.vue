@@ -1,11 +1,5 @@
-<script setup lang="ts">
-
-</script>
-
 <template>
-  $END$
+<div class="Main">
+  Main page
+</div>
 </template>
-
-<style scoped>
-
-</style>
