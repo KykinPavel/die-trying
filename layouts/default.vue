@@ -1,26 +1,24 @@
 <template>
   <section class="container">
-    <h1 class="visually-hidden">
-      ГдеМатериал.Ру
-    </h1>
-    <PageHeader />
-    <nuxt />
-    <PageFooter />
+<!--    <h1 class="visually-hidden">-->
+<!--      ГдеМатериал.Ру-->
+<!--    </h1>-->
+<!--    <PageHeader />-->
+    <slot />
   </section>
 </template>
 
 <script>
-// // import PageHeader from '~/components/PageHeader.vue';
+// import Filters from '~/components/Filters.vue';
 // // import PageFooter from '~/components/PageFooter.vue';
-//
 // export default {
 //   components: {
-//     PageHeader,
+//     Filters,
 //     PageFooter,
 //   },
 // };
 </script>
 
 <style lang="scss">
-@import "~/assets/base.scss";
+//@import "~/assets/base.scss";
 </style>

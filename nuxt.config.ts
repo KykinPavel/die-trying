@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   alias: {
     '@': resolve(__dirname, "/"),
   },
-  css: ["~/assets/main.scss"],
+  css: ['bootstrap/dist/css/bootstrap.min.css'],
   postcss: {
     plugins: {
       tailwindcss: {},
@@ -24,6 +24,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/content',
     'nuxt-svgo-loader',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
+    '@pinia/nuxt'
   ]
 })

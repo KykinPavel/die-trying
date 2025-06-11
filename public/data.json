@@ -1,0 +1,702 @@
+[
+{
+"Received": "Thu, 03 Sep 2015 08:41:05 +0000",
+"From": "abrakadabra60@example.com",
+"To": "itblaster@example.com",
+"Date": "20150903T084105Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 265
+},
+{
+"Received": "Fri, 04 Mar 2016 10:23:53 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160304T102353Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 517
+},
+{
+"Received": "Fri, 04 Mar 2016 11:05:41 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160304T110541Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 457
+},
+{
+"Received": "Fri, 04 Mar 2016 11:09:21 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160304T110921Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 17
+},
+{
+"Received": "Thu, 10 Mar 2016 05:23:28 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160310T052328Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 453
+},
+{
+"Received": "Thu, 10 Mar 2016 05:29:32 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160310T052932Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 1547
+},
+{
+"Received": "Mon, 21 Mar 2016 13:51:43 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160321T135143Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 581
+},
+{
+"Received": "Mon, 21 Mar 2016 13:52:41 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160321T135241Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 56
+},
+{
+"Received": "Mon, 21 Mar 2016 13:53:43 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160321T135343Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 1
+},
+{
+"Received": "Mon, 21 Mar 2016 13:55:24 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160321T135524Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 12
+},
+{
+"Received": "Tue, 22 Mar 2016 04:49:45 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T044945Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 871
+},
+{
+"Received": "Tue, 22 Mar 2016 04:51:18 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T045118Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 437
+},
+{
+"Received": "Tue, 22 Mar 2016 04:52:49 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T045249Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 0
+},
+{
+"Received": "Tue, 22 Mar 2016 10:55:27 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T105527Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 0
+},
+{
+"Received": "Tue, 22 Mar 2016 10:59:33 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T105933Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 0
+},
+{
+"Received": "Tue, 22 Mar 2016 10:59:49 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T105949Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 251
+},
+{
+"Received": "Tue, 22 Mar 2016 11:53:07 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160322T115307Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 451
+},
+{
+"Received": "Wed, 23 Mar 2016 12:43:53 +0000",
+"From": "itblaster_en@example.com",
+"To": "itblaster@example.com",
+"Date": "20160323T124353Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 743
+},
+{
+"Received": "Wed, 23 Mar 2016 14:16:42 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160323T141642Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 125
+},
+{
+"Received": "Wed, 23 Mar 2016 14:19:16 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160323T141916Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 52
+},
+{
+"Received": "Wed, 23 Mar 2016 14:20:28 +0000",
+"From": "hamway@example.com",
+"To": "itblaster@example.com",
+"Date": "20160323T142028Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 17
+},
+{
+"Received": "Thu, 24 Mar 2016 06:47:14 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160324T064714Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 0
+},
+{
+"Received": "Thu, 24 Mar 2016 06:55:57 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160324T065557Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 584
+},
+{
+"Received": "Thu, 24 Mar 2016 13:09:30 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160324T130930Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 5
+},
+{
+"Received": "Mon, 28 Mar 2016 11:11:32 +0000",
+"From": "itblaster_en@example.com",
+"To": "itblaster@example.com",
+"Date": "20160328T111132Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 280
+},
+{
+"Received": "Mon, 28 Mar 2016 11:12:03 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160328T111203Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 17
+},
+{
+"Received": "Tue, 29 Mar 2016 10:07:04 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160329T100704Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 43
+},
+{
+"Received": "Tue, 29 Mar 2016 10:07:26 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160329T100726Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 120
+},
+{
+"Received": "Tue, 29 Mar 2016 12:23:26 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160329T122326Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 63
+},
+{
+"Received": "Tue, 29 Mar 2016 12:23:51 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160329T122351Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 81
+},
+{
+"Received": "Fri, 08 Apr 2016 05:27:19 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T052719Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 742
+},
+{
+"Received": "Fri, 08 Apr 2016 05:28:33 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T052833Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 80
+},
+{
+"Received": "Fri, 08 Apr 2016 05:31:32 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T053132Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 25
+},
+{
+"Received": "Fri, 08 Apr 2016 05:33:41 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T053341Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 31
+},
+{
+"Received": "Fri, 08 Apr 2016 05:35:01 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T053501Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 48
+},
+{
+"Received": "Fri, 08 Apr 2016 05:57:12 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T055712Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 26
+},
+{
+"Received": "Fri, 08 Apr 2016 05:59:58 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T055958Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 22
+},
+{
+"Received": "Fri, 08 Apr 2016 07:03:02 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T070302Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 12
+},
+{
+"Received": "Fri, 08 Apr 2016 07:03:33 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T070333Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 11
+},
+{
+"Received": "Fri, 08 Apr 2016 09:47:08 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160408T094708Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 75
+},
+{
+"Received": "Tue, 12 Apr 2016 04:12:27 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160412T041227Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 23
+},
+{
+"Received": "Tue, 12 Apr 2016 04:16:03 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160412T041603Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 160
+},
+{
+"Received": "Wed, 13 Apr 2016 05:39:06 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160413T053906Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 185
+},
+{
+"Received": "Wed, 01 Jun 2016 11:36:13 +0000",
+"From": "ichernyh@example.com",
+"To": "itblaster@example.com",
+"Date": "20160601T113613Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 280
+},
+{
+"Received": "Sun, 24 Jul 2016 12:47:42 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T124742Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 256
+},
+{
+"Received": "Sun, 24 Jul 2016 12:48:04 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T124804Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 251
+},
+{
+"Received": "Sun, 24 Jul 2016 12:48:48 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T124848Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 125
+},
+{
+"Received": "Sun, 24 Jul 2016 12:48:50 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T124850Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 180
+},
+{
+"Received": "Sun, 24 Jul 2016 12:50:56 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T125056Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 361
+},
+{
+"Received": "Sun, 24 Jul 2016 12:55:46 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T125546Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 142
+},
+{
+"Received": "Sun, 24 Jul 2016 12:56:28 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T125628Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 259
+},
+{
+"Received": "Sun, 24 Jul 2016 13:01:50 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T130150Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 25
+},
+{
+"Received": "Sun, 24 Jul 2016 13:22:34 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T132234Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 17
+},
+{
+"Received": "Sun, 24 Jul 2016 13:23:39 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T132339Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 73
+},
+{
+"Received": "Sun, 24 Jul 2016 13:23:40 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T132340Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 49
+},
+{
+"Received": "Sun, 24 Jul 2016 13:23:41 +0000",
+"From": "d.sikach@example.com",
+"To": "itblaster@example.com",
+"Date": "20160724T132341Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 45
+},
+{
+"Received": "Mon, 25 Jul 2016 06:31:21 +0000",
+"From": "webrtc_freecall@example.com",
+"To": "itblaster@example.com",
+"Date": "20160725T063121Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 0
+},
+{
+"Received": "Fri, 16 Sep 2016 06:03:27 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160916T060327Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 19
+},
+{
+"Received": "Fri, 16 Sep 2016 07:55:06 +0000",
+"From": "kmal@example.com",
+"To": "itblaster@example.com",
+"Date": "20160916T075506Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 280
+},
+{
+"Received": "Tue, 20 Sep 2016 11:27:05 +0000",
+"From": "bulgakova.m@example.com",
+"To": "itblaster@example.com",
+"Date": "20160920T112705Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 25
+},
+{
+"Received": "Wed, 28 Sep 2016 08:17:54 +0000",
+"From": "bulgakova.m@example.com",
+"To": "itblaster@example.com",
+"Date": "20160928T081754Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 17
+},
+{
+"Received": "Fri, 28 Oct 2016 07:06:41 +0000",
+"From": "+79258000138@example.com",
+"To": "itblaster@example.com",
+"Date": "20161028T070641Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 43
+},
+{
+"Received": "Fri, 28 Oct 2016 10:44:56 +0000",
+"From": "+79995100405@example.com",
+"To": "itblaster@example.com",
+"Date": "20161028T104456Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 81
+},
+{
+"Received": "Fri, 28 Oct 2016 10:45:20 +0000",
+"From": "+79995100405@example.com",
+"To": "itblaster@example.com",
+"Date": "20161028T104520Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 251
+},
+{
+"Received": "Thu, 03 Nov 2016 12:06:33 +0000",
+"From": "bulgakova.m@example.com",
+"To": "itblaster@example.com",
+"Date": "20161103T120633Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 472
+},
+{
+"Received": "Thu, 03 Nov 2016 12:07:07 +0000",
+"From": "bulgakova.m@example.com",
+"To": "itblaster@example.com",
+"Date": "20161103T120707Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 581
+},
+{
+"Received": "Thu, 08 Dec 2016 10:20:18 +0000",
+"From": "ichernyh@sip2sip.info",
+"To": "itblaster@example.com",
+"Date": "20161208T102018Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 50
+},
+{
+"Received": "Thu, 08 Dec 2016 10:20:36 +0000",
+"From": "ichernyh@sip2sip.info",
+"To": "itblaster@example.com",
+"Date": "20161208T102036Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 43
+},
+{
+"Received": "Wed, 14 Dec 2016 07:49:23 +0000",
+"From": "mashorg@example.com",
+"To": "itblaster@example.com",
+"Date": "20161214T074923Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 11
+},
+{
+"Received": "Wed, 14 Dec 2016 07:50:12 +0000",
+"From": "mashorg@example.com",
+"To": "itblaster@example.com",
+"Date": "20161214T075012Z",
+"MIME": {
+"MIME": ""
+},
+"Duration": 28
+}
+]
